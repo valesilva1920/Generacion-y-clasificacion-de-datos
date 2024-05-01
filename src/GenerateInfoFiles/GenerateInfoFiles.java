@@ -85,4 +85,3 @@ package GenerateInfoFiles;
 	        return type + ";" + id + ";" + name + ";" + lastName;
 	    }
 	}
-
